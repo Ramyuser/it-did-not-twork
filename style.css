@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(216, 235, 174);
+}
+
+#time {
+    font-size: 44px;
+    margin: 125px;
+    float: right;
+}
+
+#score {
+    font-size: 44px;
+    margin: 125px;
+    float: left;
+}
+
+#sketch-to-be-drawn {
+    color: rgb(250, 98, 98);
+}
+
+#show_sketch {
+    float: top;
+    float: right;
+}
+
+p {
+    font-size: 25px;
+}
+
+h1 {
+    background-color: honeydew;
+    height: 39px;
+    font-size: 35px;
+    font-weight: bold;
+}
